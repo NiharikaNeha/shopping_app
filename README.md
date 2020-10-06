@@ -1,6 +1,6 @@
-# flutter_app3
+# shopping_app
 
-Third UI
+A shopping page UI of Headphones and Speakers.
 
 ## Getting Started
 
